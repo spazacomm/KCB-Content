@@ -1,0 +1,342 @@
+[
+  {
+    "name": "2FA_EXPIRY_TIMEOUT",
+    "value": "2",
+    "slotSetting": true
+  },
+  {
+    "name": "APP_DEBUG",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "APP_ENV",
+    "value": "production",
+    "slotSetting": true
+  },
+  {
+    "name": "APP_KEY",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=APP-KEY-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "APP_NAME",
+    "value": "\"KCB Group\"",
+    "slotSetting": true
+  },
+  {
+    "name": "APP_URL",
+    "value": "https://ug.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_CLIENT_ID",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=AZURE-CLIENT-ID-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_CLIENT_SECRET",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=AZURE-CLIENT-SECRET-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_REDIRECT_URI",
+    "value": "https://rwanda.preprod.kcbgroup.com/oauth/azure/callback",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_STORAGE_ACCOUNT_URL",
+    "value": "https://azstoragekcbgrpwebacct01.blob.core.windows.net",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_STORAGE_CONNECTION_STRING",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=AZURE-STORAGE-CONNECTION-STRING-VALUE-02)",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_STORAGE_CONTAINER_NAME",
+    "value": "metadata1",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_STORAGE_CONTAINER_URL",
+    "value": "https://azstoragekcbgrpwebacct01.blob.core.windows.net/metadata1",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_STORAGE_KEY",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=AZURE-STORAGE-KEY-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "AZURE_TENANT_ID",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=AZURE-TENANT-ID-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "CACHE_DRIVER",
+    "value": "file",
+    "slotSetting": true
+  },
+  {
+    "name": "CAPTCHA_SECRET",
+    "value": "0x4AAAAAAAaCvWFiTCMW0r8uO_o2POCmdSo",
+    "slotSetting": true
+  },
+  {
+    "name": "CAPTCHA_SITEKEY",
+    "value": "0x4AAAAAAAaCvUX5kde8xUwj",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_CONNECTION",
+    "value": "mysql",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_DATABASE",
+    "value": "kcb_cms_production",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_HOST",
+    "value": "az-vm-mysqlkcbgroupwebsites-db-pd-uksouth-01.mysql.database.azure.com",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PASSWORD",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=DB-PASSWORD-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_PORT",
+    "value": "3306",
+    "slotSetting": true
+  },
+  {
+    "name": "DB_USERNAME",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=DB-USERNAME-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "DEBUGBAR_ENABLED",
+    "value": "False",
+    "slotSetting": true
+  },
+  {
+    "name": "ENABLE_2FA",
+    "value": "true",
+    "slotSetting": true
+  },
+  {
+    "name": "ENABLED_MFA",
+    "value": "true",
+    "slotSetting": true
+  },
+  {
+    "name": "FA_EXPIRY_TIMEOUT",
+    "value": "2",
+    "slotSetting": true
+  },
+  {
+    "name": "FILESYSTEM_DISK",
+    "value": "local",
+    "slotSetting": true
+  },
+  {
+    "name": "GROUP_SITE_URL",
+    "value": "https://group.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "HTTPS",
+    "value": "on",
+    "slotSetting": true
+  },
+  {
+    "name": "LOG_CHANNEL",
+    "value": "stack",
+    "slotSetting": true
+  },
+  {
+    "name": "LOG_DEPRECATIONS_CHANNEL",
+    "value": "null",
+    "slotSetting": true
+  },
+  {
+    "name": "LOG_LEVEL",
+    "value": "debug",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_ENCRYPTION",
+    "value": "tls",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_FROM_ADDRESS",
+    "value": "\"wmailer@kcbgroup.com\"",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_FROM_NAME",
+    "value": "\"KCB Group\"",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_HOST",
+    "value": "smtp.office365.com",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_MAILER",
+    "value": "smtp",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_PASSWORD",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=MAIL-PASSWORD-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_PORT",
+    "value": "587",
+    "slotSetting": true
+  },
+  {
+    "name": "MAIL_USERNAME",
+    "value": "@Microsoft.KeyVault(VaultName=az-kv-kcbgrp-pd-uksth-01;SecretName=MAIL-USERNAME-VALUE)",
+    "slotSetting": true
+  },
+  {
+    "name": "QUEUE_CONNECTION",
+    "value": "sync",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_CLIENT",
+    "value": "predis",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_HOST",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "REDIS_PORT",
+    "value": "6379",
+    "slotSetting": true
+  },
+  {
+    "name": "RWANDA_SITE_URL",
+    "value": "https://rwanda.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "TANZANIA_SITE_URL",
+    "value": "https://tz.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "UGANDA_SITE_URL",
+    "value": "https://ug.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "KENYA_SITE_URL",
+    "value": "https://kenya.preprod.kcbgroup.com",
+    "slotSetting": true
+  },
+  {
+    "name": "SESSION_CONNECTION",
+    "value": "mysql",
+    "slotSetting": true
+  },
+  {
+    "name": "SESSION_DRIVER",
+    "value": "database",
+    "slotSetting": true
+  },
+  {
+    "name": "SESSION_LIFETIME",
+    "value": "15",
+    "slotSetting": true
+  },
+  {
+    "name": "SESSION_SECURE_COOKIE",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_API_ENABLED",
+    "value": "False",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_CUSTOM_CMS_NAME",
+    "value": "\"KCB Group\"",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_CUSTOM_LOGO_URL",
+    "value": "/images/kcb-logo.png",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_EMAIL_LOGIN_ENABLED",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_GIT_ENABLED",
+    "value": "False",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_GRAPHQL_ENABLED",
+    "value": "False",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_LICENSE_KEY",
+    "value": "",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_OAUTH_ENABLED",
+    "value": "False",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_PRO_ENABLED",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_REVISIONS_ENABLED",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_STACHE_WATCHER",
+    "value": "True",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_STATIC_CACHING_STRATEGY",
+    "value": "half",
+    "slotSetting": true
+  },
+  {
+    "name": "STATAMIC_THEME",
+    "value": "rad",
+    "slotSetting": true
+  },
+  {
+    "name": "WEBSITE_ENABLE_SYNC_UPDATE_SITE",
+    "value": "true",
+    "slotSetting": false
+  }
+]

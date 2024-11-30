@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "handle": "pages",
+        "title": "Pages",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi-fr\", \"tanzania\", \"burundi\", \"kenya\", \"south-sudan\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"page\", \"propagate\": false, \"revisions\": true, \"structure\": {\"root\": true, \"slugs\": true}, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"OEEwjPKC\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 02:56:36",
+        "updated_at": "2024-10-29 08:50:43"
+    },
+    {
+        "id": 2,
+        "handle": "banking_products",
+        "title": "Banking Products",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"tanzania\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/products\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/product\", \"propagate\": false, \"revisions\": true, \"structure\": {\"root\": false}, \"sort_field\": null, \"taxonomies\": [\"product_categories\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"epoaISjw\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:00:06",
+        "updated_at": "2024-10-29 08:51:01"
+    },
+    {
+        "id": 3,
+        "handle": "teams",
+        "title": "Teams",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/leader\", \"propagate\": false, \"revisions\": true, \"structure\": {\"root\": false}, \"sort_field\": null, \"taxonomies\": [\"leadership\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"BYmkrApw\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:00:39",
+        "updated_at": "2024-10-31 10:31:15"
+    },
+    {
+        "id": 4,
+        "handle": "testimonials",
+        "title": "Testimonials",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"8Gi5wyYQ\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:00:50",
+        "updated_at": "2024-10-31 10:31:42"
+    },
+    {
+        "id": 5,
+        "handle": "faqs",
+        "title": "FAQs",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"BheC1IdH\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:01:03",
+        "updated_at": "2024-10-31 10:29:46"
+    },
+    {
+        "id": 6,
+        "handle": "reports",
+        "title": "Reports",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"desc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": {\"root\": false}, \"sort_field\": null, \"taxonomies\": [\"years\", \"quarters\", \"categories\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"VQ4RSIxf\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:01:44",
+        "updated_at": "2024-10-31 10:31:04"
+    },
+    {
+        "id": 7,
+        "handle": "articles",
+        "title": "Articles",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/blog\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"categories\", \"years\", \"blog_categories\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"NOw0prEn\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-15 03:01:53",
+        "updated_at": "2024-08-23 03:07:13"
+    },
+    {
+        "id": 8,
+        "handle": "branches",
+        "title": "Branches",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"rwanda-en\", \"group\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"vldDIL0i\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-19 09:33:57",
+        "updated_at": "2024-10-31 10:24:36"
+    },
+    {
+        "id": 9,
+        "handle": "atms",
+        "title": "ATMs",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"R0n5vWOQ\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-24 04:46:07",
+        "updated_at": "2024-10-31 09:50:44"
+    },
+    {
+        "id": 10,
+        "handle": "bank_agents",
+        "title": "Bank Agents",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"rwanda-en\", \"group\", \"rwanda-fr\", \"rwanda-rw\", \"burundi\", \"burundi-fr\", \"kenya\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"bjUXNZ9w\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-04-24 04:47:12",
+        "updated_at": "2024-10-31 10:22:14"
+    },
+    {
+        "id": 11,
+        "handle": "events",
+        "title": "Events",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{public_uri}\/{slug}\", \"sort_dir\": \"desc\", \"template\": \"templates\/event\", \"propagate\": false, \"revisions\": true, \"structure\": {\"root\": false}, \"sort_field\": null, \"taxonomies\": [\"categories\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"Q17SR39A\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-07-23 11:01:38",
+        "updated_at": "2024-08-20 08:35:23"
+    },
+    {
+        "id": 12,
+        "handle": "vacancies",
+        "title": "Vacancies",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"uganda\", \"rwanda-en\", \"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/vacancy\", \"propagate\": true, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"countries\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"LoUuUeEv\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-07-30 07:48:42",
+        "updated_at": "2024-11-25 19:40:37"
+    },
+    {
+        "id": 13,
+        "handle": "deals",
+        "title": "Deals",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/deals\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"deals_categories\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"cLcvsZ9g\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-09-18 14:25:08",
+        "updated_at": "2024-11-18 07:53:47"
+    },
+    {
+        "id": 14,
+        "handle": "exchange_rates",
+        "title": "Exchange Rates",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"kenya\", \"group\", \"burundi\", \"burundi-fr\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"pUO8eW6l\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-09-20 11:11:25",
+        "updated_at": "2024-10-31 10:29:37"
+    },
+    {
+        "id": 15,
+        "handle": "tenders",
+        "title": "Tenders",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/tender\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"3F1cb5HM\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-07 09:13:35",
+        "updated_at": "2024-10-31 10:31:34"
+    },
+    {
+        "id": 17,
+        "handle": "remittances",
+        "title": "Remittances",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"countries\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"UC9PDYuI\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-09 09:44:27",
+        "updated_at": "2024-10-31 10:30:55"
+    },
+    {
+        "id": 18,
+        "handle": "vehicles",
+        "title": "Vehicles",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/vehicle\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"vehicle_type\"], \"search_index\": null, \"title_formats\": [], \"default_status\": false, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"s9TrGoHt\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-17 03:17:23",
+        "updated_at": "2024-10-31 10:32:06"
+    },
+    {
+        "id": 19,
+        "handle": "properties",
+        "title": "Properties",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/property\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"property_type\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"qVSJb0oP\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-17 03:18:57",
+        "updated_at": "2024-10-17 03:19:55"
+    },
+    {
+        "id": 20,
+        "handle": "bid_assets",
+        "title": "Bid Assets",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"group\", \"burundi\", \"burundi-fr\", \"kenya\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": \"{parent_uri}\/{slug}\", \"sort_dir\": \"asc\", \"template\": \"templates\/assets\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"asset_type\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"r09DQlbR\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-17 03:20:17",
+        "updated_at": "2024-10-17 03:21:14"
+    },
+    {
+        "id": 21,
+        "handle": "vehicle_bids",
+        "title": "Vehicle Bids",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"kenya\", \"burundi\", \"burundi-fr\", \"group\", \"rwanda-en\", \"rwanda-fr\", \"rwanda-rw\", \"south-sudan\", \"tanzania\", \"uganda\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"ZGn16w26\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-10-18 07:04:59",
+        "updated_at": "2024-10-31 10:31:59"
+    },
+    {
+        "id": 22,
+        "handle": "fixtures",
+        "title": "Fixtures",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"leagues\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"XzDRGYqd\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-11-08 12:18:23",
+        "updated_at": "2024-11-08 12:20:04"
+    },
+    {
+        "id": 23,
+        "handle": "football_standings",
+        "title": "Football Standings",
+        "settings": "{\"dated\": true, \"mount\": null, \"sites\": [\"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": false, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"seasons\", \"leagues\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"OqzIzbOr\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-11-08 12:20:29",
+        "updated_at": "2024-11-08 12:21:13"
+    },
+    {
+        "id": 25,
+        "handle": "merchandises",
+        "title": "Merchandise",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [\"merchandise\"], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"KvDK6E9a\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-11-11 05:02:30",
+        "updated_at": "2024-11-11 05:03:39"
+    },
+    {
+        "id": 26,
+        "handle": "diaspora_agents",
+        "title": "Diaspora Agents",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": true, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"AzFCsXDp\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-11-27 05:51:31",
+        "updated_at": "2024-11-27 05:51:57"
+    },
+    {
+        "id": 27,
+        "handle": "sub_agents",
+        "title": "Sub Agents",
+        "settings": "{\"dated\": false, \"mount\": null, \"sites\": [\"group\", \"kenya\"], \"slugs\": true, \"inject\": [], \"layout\": \"layout\", \"routes\": null, \"sort_dir\": \"asc\", \"template\": \"default\", \"propagate\": false, \"revisions\": false, \"structure\": null, \"sort_field\": null, \"taxonomies\": [], \"search_index\": null, \"title_formats\": [], \"default_status\": true, \"origin_behavior\": \"select\", \"preview_targets\": [{\"id\": \"oyZBnTDY\", \"label\": \"Entry\", \"format\": \"{permalink}\", \"refresh\": true}], \"past_date_behavior\": \"public\", \"future_date_behavior\": \"private\"}",
+        "created_at": "2024-11-27 05:52:54",
+        "updated_at": "2024-11-27 05:53:16"
+    }
+]
