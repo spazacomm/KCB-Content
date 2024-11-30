@@ -1060,11 +1060,6 @@
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/australia-first-then-russia.jpg"
     },
     {
-        "file": "backup.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/backup.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/backup.zip"
-    },
-    {
         "file": "bancassurance-banner.jpg",
         "full_path": "\/home\/site\/wwwroot\/storage\/app\/bancassurance-banner.jpg",
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/bancassurance-banner.jpg"
@@ -1538,11 +1533,6 @@
         "file": "building-your-dream-home.jpg",
         "full_path": "\/home\/site\/wwwroot\/storage\/app\/building-your-dream-home.jpg",
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/building-your-dream-home.jpg"
-    },
-    {
-        "file": "burundi-content.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/burundi-content.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/burundi-content.zip"
     },
     {
         "file": "business-idea-for-lions-den-1727688223.jpg",
@@ -10820,16 +10810,6 @@
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/auto-xpress-application-form.pdf"
     },
     {
-        "file": "public\/backup-app.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/backup-app.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/backup-app.zip"
-    },
-    {
-        "file": "public\/backup.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/backup.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/backup.zip"
-    },
-    {
         "file": "public\/bancassurance-banner.jpg",
         "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/bancassurance-banner.jpg",
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/bancassurance-banner.jpg"
@@ -11003,11 +10983,6 @@
         "file": "public\/bpr-terms-and-conditions-for-individual-credit-cards.pdf",
         "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/bpr-terms-and-conditions-for-individual-credit-cards.pdf",
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/bpr-terms-and-conditions-for-individual-credit-cards.pdf"
-    },
-    {
-        "file": "public\/bulk_download.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/bulk_download.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/bulk_download.zip"
     },
     {
         "file": "public\/card-sustainanility-report-2021.jpg",
@@ -12878,11 +12853,6 @@
         "file": "public\/kentank-zone-price-lists.pdf",
         "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/kentank-zone-price-lists.pdf",
         "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/kentank-zone-price-lists.pdf"
-    },
-    {
-        "file": "public\/kenya-backup.zip",
-        "full_path": "\/home\/site\/wwwroot\/storage\/app\/public\/kenya-backup.zip",
-        "download_url": "https:\/\/staging.kcbgroup.com\/storage\/public\/kenya-backup.zip"
     },
     {
         "file": "public\/kenya-chess-team-shines-in-burundi.jpg",
