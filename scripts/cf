@@ -1,0 +1,11 @@
+FOREX_API_RATES_URL=https://uat.buni.kcbgroup.com/forexrates/1.0.0/forex/rates
+FOREX_API_TOKEN_URL=https://wso2-api-gateway-direct-kcb-wso2-gateway.apps.test.aro.kcbgroup.com/token?grant_type=client_credentials
+
+FOREX_API_USERNAME=QmTPdjc7a4uu0SG7ahaakcqOyxka
+FOREX_API_PASSWORD=BhOYVeMp1rW32JFWhHBIIKLEZGMa
+
+FOREX_RATES_UPDATE_INTERVAL=1
+
+
+LMS_API_ENDPOINT=https://api.optimus.site/uat/v1/create-lead
+LMS_API_TOKEN=554DE9A68EEA7FA3BD834E3FA11C7
